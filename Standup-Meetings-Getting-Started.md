@@ -18,15 +18,15 @@ Add Probot to the daily stand-up channel. To do this, you may either type ‘Pro
 To add members to the scrum channels, make sure they have existing Slack accounts linked to the workspace. If you want to add people when you are creating a channel, write their names in 'Send Invites To" section. You can always add more members from 'Invite More People' option on Slack.
 
 ## Customize Scrum Questions
-By default, Probot will ask a pre-defined set of questions. Those are:
+~~By default, Probot will ask a pre-defined set of questions. Those are:~~
 
-•	What did you do yesterday?
+~~•	What did you do yesterday?~~
 
-•	What will you do today?
+~~•	What will you do today?~~
 
-•	Any roadblock.
+~~•	Any roadblock.~~
 
-If you want to add a different set of questions, overwrite the existing questions or ‘Add New Question’.
+~~If you want to add a different set of questions, overwrite the existing questions or ‘Add New Question’.~~
 
 Always remember to save changes after modifying the sections.
 
