@@ -20,17 +20,6 @@ To add members to the scrum channels, make sure they have existing Slack account
 ## Conducting a Stand-up
 After the preliminary set-up is finished, you and your team are now ready to conduct virtual scrum. The actual process is initiated by typing this command- ‘scrum start’. As soon as a member writes this command in the channel, the daily stand-up meeting resumes. During a stand-up, Probot asks a set of questions to each active participant. 
 
-## Customize Scrum Questions
-~~By default, Probot will ask a pre-defined set of questions. Those are:~~
-
-~~•	What did you do yesterday?~~
-
-~~•	What will you do today?~~
-
-~~•	Any roadblock.~~
-
-~~If you want to add a different set of questions, overwrite the existing questions or ‘Add New Question’.~~
-
 Always remember to save changes after modifying the sections.
 
 
