@@ -22,6 +22,6 @@ Fetching reports using commands is more dynamic as compared to manual searches. 
 
 	In order to retrieve scrum report for a particular date, write scrum report [@user] [channel-name] [date].
 
-[Pro Tip: Our developers recommend that immediately after you configure Probot Ninja to Slack, always type ‘help’ and send a DM to Probot app. 
+[Pro Tip: Our developers recommend that immediately after configuring Probot Ninja to Slack, always type ‘help’ and send a DM to Probot app. 
 Firstly, this will ensure that Probot has been successfully added and secondly, it will furnish a complete list of commands.]
 
