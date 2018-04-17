@@ -1,15 +1,5 @@
  # Standup Meetings – Reports
 
-The main purpose of scrum reports is to collect and analyze data along the way to accomplishing the right project, at the right time using minimum iterations.
-
-The actual process is initiated by typing this command- ‘scrum start’. As soon as a member writes this command in the channel, the daily stand-up meeting resumes. During a stand-up, Probot asks a set of questions to each active participant. The questions are:
-
-• What did you do yesterday?
-
-• What will you do today?
-
-• Any roadblock?
- 
  After the stand-up is concluded, Probot collects the data and sends reports to relevant recipients. There are various ways to retrieve scrum reports which we will learn today.
  
 ## Scrum Log
